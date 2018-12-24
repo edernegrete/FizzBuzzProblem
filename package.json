@@ -1,0 +1,17 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Fizz buzz challenge with one if and adding the 'fizzbuzz' word when it's a multiple of both",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --timeout 10000"
+  },
+  "devDependencies": {
+    "mocha": "5.2.0",
+    "chai": "4.2.0"
+  },
+  "keywords": [],
+  "author": "@edernegrete_",
+  "license": "ISC"
+}
